@@ -1,0 +1,11 @@
+{
+	"name": "coconut-tools",
+	"version": "0.9.0",
+	"scripts": {
+		"start": "npm run static"
+	},
+"dependencies": {
+	"json2csv": "^5.0.7",
+	"pouchdb": "^7.3.0"
+}
+}
